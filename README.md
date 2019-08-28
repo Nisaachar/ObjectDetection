@@ -1,1 +1,1 @@
-"# ObjectDetection" 
+The script runs which triggers the webcam, using the live feedback from camera the script is able to detect face and eyes. Later it highlights them. It is done using cascade licensed by INTEL. Later I can manually train HAAR CASCADE for detection of any object.
